@@ -1,4 +1,4 @@
-# Email Sender
+# Email Sender :email:
 Simple Springboot project, designed to send emails using the java library JavaMailSender.
 
 
